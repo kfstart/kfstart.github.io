@@ -1,0 +1,106 @@
+#container {
+    height: 308px;
+    width: 308px;
+    position: relative;
+    margin: auto;
+    margin-top: 150px;
+}
+
+.square {
+  height: 100px;
+  width: 100px;
+  margin: 2px;
+  position: absolute;
+}
+
+.circle {
+  width: 50px;
+  height: 50px;
+  border-radius: 100%;
+  border: 1px black solid;
+  margin: 25px 25px;
+}
+  
+.s-red {
+  background-color: red;
+}
+  
+.s-blue {
+  background-color: blue;
+  left:102px;
+}
+  
+.s-green {
+  background-color: green;
+  right: 0;
+}
+  
+.s-yellow {
+  background-color: yellow;
+  top: 102px;
+}
+  
+.s-black {
+  background-color: black;
+  top: 102px;
+  left: 102px;
+}
+  
+.s-orange {
+  background-color: orange;
+  right: 0;
+  top: 102px;
+}
+  
+.s-purple {
+  background-color: purple;
+  bottom: 0;
+}
+  
+.s-grey {
+  background-color: grey;
+  bottom: 0;
+  left: 102px;
+}
+  
+.s-pink {
+  background-color: pink;
+  right: 0;
+  bottom: 0;
+}
+
+.c-pink {
+  background-color: pink;
+}
+
+.c-grey {
+  background-color: grey;
+}
+
+.c-purple {
+  background-color: purple;
+}
+
+.c-green {
+  background-color: green;
+}
+
+.c-red {
+  background-color: red;
+}
+
+.c-blue {
+  background-color: blue;
+}
+
+.c-orange {
+  background-color: orange;
+}
+
+.c-yellow {
+  background-color: yellow;
+}
+
+.c-black {
+  background-color: black;
+}

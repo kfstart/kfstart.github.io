@@ -7,6 +7,7 @@
     text-align: center;
     font-size: 1.5em;
     color: white;
+    max-width: 1170px;
 }
 
 header {
@@ -23,20 +24,20 @@ header {
 
 .left-side {
     background-color: green;
-    min-height: 300px;
+    min-height: 250px;
     width: 20%;
 }
 
 .content {
     background-color: rgb(17, 161, 245);
-    min-height: 300px;
+    min-height: 250px;
     width: 60%;
     text-transform: uppercase;
 }
 
 .right-side {
     background-color: pink;
-    min-height: 300px;
+    min-height: 250px;
     width: 20%;
 }
 
